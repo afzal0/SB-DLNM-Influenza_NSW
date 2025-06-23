@@ -1,0 +1,18 @@
+[2025-03-13 11:00:56] Starting climate model analysis
+[2025-03-13 11:00:56] Loading required data files...
+[2025-03-13 11:00:56] Error loading data: cannot open the connection
+[2025-03-13 11:01:10] Starting climate model analysis
+[2025-03-13 11:01:10] Loading required data files...
+[2025-03-13 11:01:10] Time series data loaded successfully
+[2025-03-13 11:01:10] Case-crossover data created successfully
+[2025-03-13 11:01:10] Error loading data: object 'list_neighbours' not found
+[2025-03-13 11:01:28] Starting climate model analysis
+[2025-03-13 11:01:28] Loading required data files...
+[2025-03-13 11:01:28] Time series data loaded successfully
+[2025-03-13 11:01:28] Case-crossover data created successfully
+[2025-03-13 11:01:28] Error loading data: object 'list_neighbours' not found
+[2025-03-13 11:02:19] Starting climate model analysis
+[2025-03-13 11:02:19] Loading required data files...
+[2025-03-13 11:02:19] Time series data loaded successfully
+[2025-03-13 11:02:19] Case-crossover data created successfully
+[2025-03-13 11:02:19] Error loading data: object 'list_neighbours' not found

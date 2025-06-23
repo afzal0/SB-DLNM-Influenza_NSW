@@ -1,0 +1,14 @@
+# R specific files
+.Rhistory
+.Rdata
+.Rproj.user
+*.Rproj
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.temp

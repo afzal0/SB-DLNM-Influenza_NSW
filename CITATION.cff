@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Spatially-informed Bayesian Distributed Lag Non-Linear Models for Influenza in NSW"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://github.com/afzal0/SB-DLNM-Influenza_NSW"
+repository-code: "https://github.com/afzal0/SB-DLNM-Influenza_NSW.git"
+license: MIT
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Mohammad Afzal"
+    email: "mkha0168@student.monash.edu"
+    affiliation: "Faculty of Information Technology, Monash University"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Adegboye"
+    given-names: "Oyelola"
+    email: "oyelola.adegboye@menzies.edu.au"
+    affiliation: "Menzies School of Health Research, Charles Darwin University"
+  - family-names: "Lyu"
+    given-names: "Shiyang"
+    email: "arthur.lyu@monash.edu"
+    affiliation: "Faculty of Information Technology, Monash University"
+  - family-names: "Adhinugraha"
+    given-names: "Kiki Maulana"
+    email: "K.Adhinugraha@latrobe.edu.au"
+    affiliation: "School of Computing and Information Technology, La Trobe University"
+  - family-names: "Emeto"
+    given-names: "Theophilus I."
+    affiliation: "Australian Institute of Tropical Health and Medicine, James Cook University"
+  - family-names: "Taniar"
+    given-names: "David"
+    email: "david.taniar@monash.edu"
+    affiliation: "Faculty of Information Technology, Monash University"
+keywords:
+  - "Distributed Lag Non-Linear Models"
+  - "Bayesian statistics"
+  - "Influenza"
+  - "Climate-health"
+  - "Spatial epidemiology"
+  - "MCMC"
+  - "Time series analysis"
+abstract: "Implementation of Spatially-informed Bayesian Distributed Lag Non-Linear Models (SB-DLNM) to investigate the complex relationships between meteorological factors and influenza transmission across New South Wales, Australia. The framework captures both non-linear and delayed effects of weather exposures while accounting for spatial dependencies between neighboring health districts."
